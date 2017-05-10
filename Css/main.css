@@ -1,0 +1,24 @@
+body {
+    background-color: lightblue;
+}
+
+h1{
+    color: red;
+    text-align: center;
+}
+p{
+    font-family: Verdana;
+    font-size: 20px;
+}
+.center{
+text-align: center;
+    color: red;
+
+}
+#idelementas{
+    text-align: right;
+    color: #00ff00; /*Galima naudoti ir koda vietoje nurodomos spalvos*/
+    position: static;
+    top: 0px;
+    right: 0px;
+   }
